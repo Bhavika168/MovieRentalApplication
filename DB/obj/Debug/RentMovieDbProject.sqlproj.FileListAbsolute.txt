@@ -1,0 +1,6 @@
+C:\Users\pbhav\source\repos\RentMovie\RentMovieDbProject\bin\Debug\RentMovieDbProject.dacpac
+C:\Users\pbhav\source\repos\RentMovie\RentMovieDbProject\bin\Debug\RentMovieDbProject.dll
+C:\Users\pbhav\source\repos\RentMovie\RentMovieDbProject\bin\Debug\RentMovieDbProject.pdb
+C:\Users\pbhav\source\repos\RentMovie\RentMovieDbProject\obj\Debug\RentMovieDbProject.sqlproj.AssemblyReference.cache
+C:\Users\pbhav\source\repos\RentMovie\RentMovieDbProject\obj\Debug\RentMovieDbProject.dll
+C:\Users\pbhav\source\repos\RentMovie\RentMovieDbProject\obj\Debug\RentMovieDbProject.pdb
